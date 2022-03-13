@@ -58,3 +58,12 @@ main {
     border: 1px solid #D5D4D8;
     text-indent: 5px;
 }
+
+.meme--image {
+    max-width: 50%;
+    display: block;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    margin-left: auto;
+    margin-right: auto;
+}
