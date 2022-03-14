@@ -3,8 +3,6 @@ import { useState } from "react"
 
 export default function Meme() {
 
-    // const [memeImage, setMemeImage] = useState("")
-
     const [meme, setMeme] = useState({
         topText: "",
         bottomText: "",
